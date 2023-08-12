@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5522156849",
+    "project_id": "authentication-44800",
+    "storage_bucket": "authentication-44800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5522156849:android:4242ba8e7e792d3a6cd410",
+        "android_client_info": {
+          "package_name": "com.nativeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5522156849-9eo5rqct46kp4ggdrm2mjvr6qkmpl8mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-OMH3GlgavTSa-CZQ7gqqaEP5m3xIXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5522156849-9eo5rqct46kp4ggdrm2mjvr6qkmpl8mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
